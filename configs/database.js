@@ -1,7 +1,8 @@
 module.exports.config = {
-    uri: 'mongodb+srv://admin:anime@cluster0-e7lsm.mongodb.net/test?retryWrites=true',
+    uri: 'mongodb://admin:iKWtCLsiCj57Ujr@ds115193.mlab.com:15193/classroom-doubt?retryWrites=true',
+    
     options: {
-        dbName: 'reddit-app',
+        dbName: 'classroom-doubt',
         useNewUrlParser: true
     },
 }
